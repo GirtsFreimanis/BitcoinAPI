@@ -1,0 +1,17 @@
+{
+  "name": "lietotajs/bitcoin",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "authors": [
+    {
+      "name": "GirtsFreimanis",
+      "email": "girtslp@gmail.com"
+    }
+  ],
+  "require": {
+    "brick/money": "^0.7.1"
+  }
+}
