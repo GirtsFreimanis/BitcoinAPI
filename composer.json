@@ -12,6 +12,7 @@
     }
   ],
   "require": {
-    "brick/money": "^0.7.1"
+    "brick/money": "^0.7.1",
+    "guzzlehttp/guzzle": "^7.8"
   }
 }
